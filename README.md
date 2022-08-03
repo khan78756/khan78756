@@ -1,0 +1,3 @@
+- 👋 Hi there, I'm abdullah khan from Pakistan and I do content on  android applications development.I really like learning new languages but I have mastered Kotlin.
+- I also enjoy UI,UX and design in general.
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khan78756)](https://github.com/anuraghazra/github-readme-stats)
